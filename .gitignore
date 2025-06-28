@@ -1,0 +1,14 @@
+**/.ipynb_checkpoints/
+
+venv/
+.env/
+env/
+
+*.csv
+*.png
+*.log
+*.jpg
+*.jpeg
+*.zip
+
+Data/
